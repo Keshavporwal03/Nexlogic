@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply bg-cream text-charcoal font-sans antialiased selection:bg-dark-olive selection:text-white text-lg;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-charcoal font-bold tracking-tight;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-dark-olive hover:bg-dark-olive/90 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-dark-olive transition-all duration-200 ease-in-out;
+  }
+  
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-charcoal bg-sage hover:bg-sage/80 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sage transition-all duration-200 ease-in-out;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-sandstone-light overflow-hidden hover:shadow-md transition-shadow duration-200;
+  }
+  
+  .input-field {
+    @apply block w-full rounded-md border-sandstone shadow-sm focus:border-dark-olive focus:ring-dark-olive sm:text-sm bg-sandstone-light/50 text-charcoal placeholder-brown-grey px-4 py-3 outline-none transition-colors duration-200;
+  }
+}

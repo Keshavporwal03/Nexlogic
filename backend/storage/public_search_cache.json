@@ -1,0 +1,408 @@
+{
+  "4a2b7b74c696cea2154a447c2b34718a41527e3c96b273527782ede083d0c116": {
+    "timestamp": 1787225723.1087425,
+    "data": {
+      "candidates": [
+        {
+          "name": "Amar Prasad",
+          "profile_url": "https://in.linkedin.com/in/amar-prasad-006386146",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "Noida, UP",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Senior Cloud security Engineer(Umbrella Infocare Pvt Ltd). Noventiq India. Jan 2022 - May 2026 4 years 5 months. Noida, Uttar Pradesh, India. Senior AWS Network ..."
+        },
+        {
+          "name": "Kiran Dangayach",
+          "profile_url": "https://in.linkedin.com/in/kiran-dangayach-74ab9781",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Terraform"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "... DevOps & Cloud Engineer | Linux, AWS, Security | Jenkins, Terraform, Docker ... Senior cloud security engineer. Altran. Sep 2019 - Jun 2021 1 year 10 ..."
+        },
+        {
+          "name": "Saikumar Paide",
+          "profile_url": "https://in.linkedin.com/in/saikumar-paide",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security",
+            "Kubernetes"
+          ],
+          "location": "",
+          "match_score": 72.5,
+          "unverified": true,
+          "unverified_snippet": "Saikumar Paide \u00b7 Senior Cloud Security Engineer | AWS Security | Kubernetes Security | CNAPP (Wiz) | AppSec | OPA/Rego \u00b7 View mutual connections with Saikumar."
+        },
+        {
+          "name": "Manu Prathapan",
+          "profile_url": "https://in.linkedin.com/in/manu-prathapan",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Cloud Security Engineer | AWS (Security & Governance) \u00b7 I design and secure scalable cloud-native platforms ... Senior Cloud Security Engineer. ValueLabs."
+        },
+        {
+          "name": "Reshma A",
+          "profile_url": "https://in.linkedin.com/in/reshmaa84",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security",
+            "Terraform"
+          ],
+          "location": "",
+          "match_score": 72.5,
+          "unverified": true,
+          "unverified_snippet": "... AWS Security services (IAM, KMS, WAF, Shield, Secrets Manager ... Currently serving as Senior Cloud Security Engineer at JPMorgan Chase, leading Terraform ..."
+        },
+        {
+          "name": "Rasmiranjan Biswal",
+          "profile_url": "https://in.linkedin.com/in/rasmiranjan-biswal-1a61a28a",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Senior Cloud Security Engineer | Cloud Network Security | Azure | AWS ... AWS security services, Microsoft\u2026 Show more. Senior Cloud Security, Network ..."
+        },
+        {
+          "name": "Trivikram R.",
+          "profile_url": "https://in.linkedin.com/in/trivikramprabhu",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Experience ; Senior Cloud Security Engineer. Zuora. Oct 2021 ; Senior Security Engineer. Rubrik, Inc. Oct 2019 ; Software Engineer 2. Intuit. Nov 2017 ; Senior ..."
+        },
+        {
+          "name": "Vishnu Shukla",
+          "profile_url": "https://in.linkedin.com/in/vishnushukla-tech",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Responsible for vendor management, Azure and AWS security center, coordination with SOC team for better security, . ... Senior Cloud Security Engineer."
+        },
+        {
+          "name": "Ramesh Raja Babu P",
+          "profile_url": "https://in.linkedin.com/in/ramesh-raja-babu-p-11661058",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Ramesh Raja Babu P. Cloud Security Architect | Senior Cloud Security Engineer | DevSecOps Security Engineer | AWS Security Specialist | Multi-Cloud Security ..."
+        },
+        {
+          "name": "Naren Kandimalla",
+          "profile_url": "https://in.linkedin.com/in/narenkandimalla",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "AWS Security"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Senior Cloud Security Engineer with 6+ years across AWS and PayPal - focused on security strategy, architecture and automation. I like solving security ..."
+        }
+      ],
+      "quota_exhausted": false
+    }
+  },
+  "ff34566a2f457ea07d7230394d3771e3008f650f691a3b18b5ddd41b72fa0e6e": {
+    "timestamp": 1787291741.1798005,
+    "data": {
+      "candidates": [
+        {
+          "name": "Jyoti Singh",
+          "profile_url": "https://in.linkedin.com/in/jyoti-singh-2aa04496",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Jyoti Singh. Application Architect | IBM. IBM Greater Noida Institute of Technology(GNIOT). Pune District, Maharashtra, India. 391 followers 384 connections."
+        },
+        {
+          "name": "Mayank Singh",
+          "profile_url": "https://in.linkedin.com/in/mayank-singh-86933118",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Senior Specialist Application Architect \u00b7 Experience: LTIMindtree \u00b7 Education: IMS Noida ,india \u00b7 Location: Noida \u00b7 293 connections on LinkedIn."
+        },
+        {
+          "name": "Amit Gupta",
+          "profile_url": "https://in.linkedin.com/in/amit-gupta-51484174",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Application Architect at IBM India Private Limited \u00b7 Experience: IBM India Private Limited \u00b7 Education: Uttar Pradesh Technical University \u00b7 Location: Noida ..."
+        },
+        {
+          "name": "Devanshu Bansal",
+          "profile_url": "https://in.linkedin.com/in/devanshu-bansal",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Application Architect | Tech Lead | Developer | Microservices | Spring Boot. Big Oh Tech Manav Rachna University. Noida, Uttar Pradesh, India. 3K followers 500 ..."
+        },
+        {
+          "name": "Abhayanand .",
+          "profile_url": "https://in.linkedin.com/in/amitabhay",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Application Architect at IBM \u00b7 17.3 years. of extensive experience on Open ... Noida \u00b7 Location: Ghaziabad \u00b7 500+ connections on LinkedIn. View ..."
+        },
+        {
+          "name": "Varun Singla",
+          "profile_url": "https://in.linkedin.com/in/varunsingla84",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Varun Singla. Application Architect. National Institute for Smart Government (NISG) SIKKIM MANIPAL UNIVERSITY. Noida, Uttar Pradesh, India. 528 followers 500+ ..."
+        },
+        {
+          "name": "Brijendra Kumar",
+          "profile_url": "https://in.linkedin.com/in/brijendra-kumar-075ba53b",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Application Architect with 16+ years of experience specializing in cloud-native transformation, microservices architecture, and enterprise-scale system ..."
+        },
+        {
+          "name": "Ashutosh Kumar",
+          "profile_url": "https://uk.linkedin.com/in/ashutosh-kumar-b7162b11",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Application Architect \u00b7 Over 17 Years of experience in analysing, architecting ... Noida - UP Technical University Lucknow \u00b7 Location: West Drayton \u00b7 85 ..."
+        },
+        {
+          "name": "Anil Kumar Verma",
+          "profile_url": "https://in.linkedin.com/in/anil-kumar-verma-6036a3115",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "APPLICATION ARCHITECT - IX \u00b7 Experienced System architect with a demonstrated history of working in the information technology and services industry."
+        },
+        {
+          "name": "Tarun A.",
+          "profile_url": "https://in.linkedin.com/in/tarun-a-967289137",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Effort estimation skills"
+          ],
+          "location": "Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Tech Arch Manager| 14 Salesforce Certifications | Salesforce Application Architect \u00b7 13+ years of experience as Salesforce Application Architect ... Noida ..."
+        }
+      ],
+      "quota_exhausted": false
+    }
+  },
+  "f9fffff438c2e30dda07d618d0cea95abbe483d8d672969ea040cb99236c8db7": {
+    "timestamp": 1787297057.7566283,
+    "data": {
+      "candidates": [
+        {
+          "name": "Nilesh Khemka",
+          "profile_url": "https://in.linkedin.com/in/nilesh-khemka",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Excellent spoken and written English communication"
+          ],
+          "location": "Okhla Phase III, Delhi",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Senior Business Development Associate. Effectual Services. Aug 2018 ... Innovazion Inc. Mar 2013 - Dec 2016 3 years 10 months. Okhla Phase III."
+        }
+      ],
+      "quota_exhausted": false
+    }
+  },
+  "cdb48caac52fb064172bfb7672f9b05658b39e41ca213069be389a0299deaf6b": {
+    "timestamp": 1787297089.690403,
+    "data": {
+      "candidates": [
+        {
+          "name": "CA Manpreet Kaur",
+          "profile_url": "https://in.linkedin.com/in/ca-manpreetkaur-01959b58",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "Kanpur, Lucknow, Agra, Prayagraj, Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Financial manager \u00b7 Experience: Uttar Pradesh Chess Association (UPCA) \u00b7 Education: The Institute of Chartered Accountants of India \u00b7 Location: Kanpur \u00b7 35 ..."
+        },
+        {
+          "name": "Deepak Kumar",
+          "profile_url": "https://in.linkedin.com/in/deepak-kumar-39681755",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "Kanpur, Lucknow, Agra, Prayagraj, Noida",
+          "match_score": 75.0,
+          "unverified": true,
+          "unverified_snippet": "Financial Manager. HDFC Life STEP-HBTI KANPUR. Jaipur, Rajasthan, India. 58 followers 58 connections. See your mutual connections. View mutual connections with ..."
+        },
+        {
+          "name": "Apoorv Nigam",
+          "profile_url": "https://in.linkedin.com/in/apoorv-nigam-67a201205",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Apoorv Nigam. AXIS MAX LIFE INSURANCE \u2713 Financial Manager| Guaranteed Income & Tax Saving Expert \u2713 Helping Professionals Build Safe & Planned Future | Max ..."
+        },
+        {
+          "name": "Pankaj Gangwani",
+          "profile_url": "https://in.linkedin.com/in/pankaj-gangwani-a806ba95",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Organization and Financial Manager at SAMAYSHATABDI TRAVELS (P) LTD. \u00b7 Experienced Manager with a demonstrated history of working in the education ..."
+        },
+        {
+          "name": "Madhu k",
+          "profile_url": "https://in.linkedin.com/in/madhu-k-38517723",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Financial Manager \u00b7 Experienced finance manager with a demonstrated history of working in the Information Technology and Automobile Industries."
+        },
+        {
+          "name": "Somnath Sarkar",
+          "profile_url": "https://in.linkedin.com/in/somnath-sarkar-a224b712",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Experience \u00b7 Financial Manager Planning & Analysis (RE&E FP&A) \u00b7 Finance Manager(Pricing) \u00b7 Finance Lead (Delivery) \u00b7 Finance Manager (FP&A) \u00b7 Financial Analyst ( ..."
+        },
+        {
+          "name": "Michelle Rosalind",
+          "profile_url": "https://www.linkedin.com/in/michelle-rosalind-441010298",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "I am a professional working in a financial manager position in the consulting industry with over 20 years of experience. I have accumulated extensive ..."
+        },
+        {
+          "name": "Vividh Shah",
+          "profile_url": "https://in.linkedin.com/in/vividh-shah-958b73124",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "Auditor & Financial Manager at Paresh Shah & Associates LLP \u00b7 Experience: Paresh Shah & Associates LLP \u00b7 Education: Northern India Engineering College ..."
+        },
+        {
+          "name": "ABHISHEK ASHOK NAIKAP",
+          "profile_url": "https://in.linkedin.com/in/abhishek-ashok-naikap-8a493918b",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "ABHISHEK ASHOK NAIKAP. Financial Manager | 7 Years GCC Experience | Infrastructure, Oil & Gas & Manufacturing Specialist I am a results-driven Finance ..."
+        },
+        {
+          "name": "sahil choudhary",
+          "profile_url": "https://in.linkedin.com/in/sahil-choudhary-8b99171b2",
+          "source": "Serper.dev (Public LinkedIn)",
+          "skills": [
+            "Financial Management"
+          ],
+          "location": "",
+          "match_score": 70.0,
+          "unverified": true,
+          "unverified_snippet": "sahil choudhary \u00b7 sr. service financial manager at ICICI Prudential Life Insurance Company Limited \u00b7 View mutual connections with sahil \u00b7 Experience \u00b7 Education ..."
+        }
+      ],
+      "quota_exhausted": false
+    }
+  }
+}
